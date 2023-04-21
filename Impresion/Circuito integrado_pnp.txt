@@ -1,0 +1,34 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Circuito integrado
+*Date=13:37:35
+*CreatedBy=Fritzing 0.9.7b.2021-07-12.CD-534-0-120da230
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;TO92 [THT];28.98;-33.1772;90;Bottom;Q2
+2;;bc9vpc;25.2589;19.9331;-90;Bottom;BAT1
+3;;ms;26.7406;-17.3939;0;Bottom;S1
+4;;THT;39.2289;-35.5267;90;Bottom;RVolumen
+5;3.3k;THT;26.5289;-45.6867;-90;Bottom;R2
+6;;;24.9936;-27.5172;0;Bottom;Copper Fill1
+7;;audio-jack-6.5mm-panel-mount;39.2289;-49.4967;0;Bottom;JOutput
+8;;THT;8.74889;-35.5267;90;Bottom;RTono
+9;8.2k;THT;18.9089;-45.6867;-90;Bottom;R3
+10;;;47.0198;-29.5052;-90;Bottom;TXT1
+11;1µF;100 mil [THT, tantalum];41.7689;-21.5567;90;Bottom;C2
+12;470;THT;6.20889;-22.8267;-90;Bottom;R4
+13;0.030;3 mm [THT];41.769;-10.8177;0;Bottom;LED1
+14;2.2µF;100 mil [THT, electrolytic];10.0189;-12.6667;180;Bottom;C1
+15;100k;THT;31.6089;-45.6867;90;Bottom;R1
+16;;TO92 [THT];18.82;-33.1772;90;Bottom;Q1
+17;;audio-jack-6.5mm-panel-mount;11.2889;-49.4967;0;Bottom;JInput
+18;;;24.9936;-27.5172;0;Bottom;Copper Fill5
+19;0.1µF;100 mil [THT, multilayer];12.5589;-22.8267;0;Bottom;C3
